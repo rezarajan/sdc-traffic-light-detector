@@ -1,26 +1,26 @@
 item {
 	id: 1
-	name: go
+	name: 'go'
 }
 
 item {
 	id: 2
-	name: stop
+	name: 'stop'
 }
 
 item {
 	id: 3
-	name: warning
+	name: 'warning'
 }
 
 item {
 	id: 4
-	name: warningLeft
+	name: 'warningLeft'
 }
 
 item {
 	id: 5
-	name: stopLeft
+	name: 'stopLeft'
 }
 
 
