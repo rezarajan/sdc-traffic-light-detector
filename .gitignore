@@ -1,2 +1,5 @@
 *.jpg
-*.tfrecord
+*.record
+**/**/pre-trained-models/**
+**/**/models/**
+**/**/=/**
